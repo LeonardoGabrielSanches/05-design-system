@@ -1,5 +1,11 @@
 # @leonardo-design-system/tokens
 
+## 4.0.0
+
+### Major Changes
+
+- Dois novos componentes
+
 ## 3.0.0
 
 ### Major Changes
